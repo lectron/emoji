@@ -1,0 +1,1095 @@
+.mc{
+	height:1.5em;
+	width:1.5em;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	display:inline-block;
+	vertical-align:middle
+}
+.mc-apple{
+	background-image:url("emoji/apple.png")
+}
+.mc-arrow{
+	background-image:url("emoji/arrow.png")
+}
+.mc-awkwardpotion{
+	background-image:url("emoji/awkwardpotion.png")
+}
+.mc-bed{
+	background-image:url("emoji/bed.png")
+}
+.mc-bedblock{
+	background-image:url("emoji/bedblock.png")
+}
+.mc-bedrock{
+	background-image:url("emoji/bedrock.png")
+}
+.mc-blackwool{
+	background-image:url("emoji/blackwool.png")
+}
+.mc-blazepowder{
+	background-image:url("emoji/blazepowder.png")
+}
+.mc-blazerod{
+	background-image:url("emoji/blazerod.png")
+}
+.mc-blockofdiamond{
+	background-image:url("emoji/blockofdiamond.png")
+}
+.mc-blockofgold{
+	background-image:url("emoji/blockofgold.png")
+}
+.mc-blockofiron{
+	background-image:url("emoji/blockofiron.png")
+}
+.mc-bluewool{
+	background-image:url("emoji/bluewool.png")
+}
+.mc-boat{
+	background-image:url("emoji/boat.png")
+}
+.mc-bone{
+	background-image:url("emoji/bone.png")
+}
+.mc-bonemeal{
+	background-image:url("emoji/bonemeal.png")
+}
+.mc-book{
+	background-image:url("emoji/book.png")
+}
+.mc-bookcase{
+	background-image:url("emoji/bookcase.png")
+}
+.mc-bottleofenchanting{
+	background-image:url("emoji/bottleofenchanting.png")
+}
+.mc-bow{
+	background-image:url("emoji/bow.png")
+}
+.mc-bowl{
+	background-image:url("emoji/bowl.png")
+}
+.mc-bread{
+	background-image:url("emoji/bread.png")
+}
+.mc-brewingstand{
+	background-image:url("emoji/brewingstand.png")
+}
+.mc-brewingstandblock{
+	background-image:url("emoji/brewingstandblock.png")
+}
+.mc-brick{
+	background-image:url("emoji/brick.png")
+}
+.mc-brickslab{
+	background-image:url("emoji/brickslab.png")
+}
+.mc-brickslabdouble{
+	background-image:url("emoji/brickslabdouble.png")
+}
+.mc-brickstairs{
+	background-image:url("emoji/brickstairs.png")
+}
+.mc-brownmushroom{
+	background-image:url("emoji/brownmushroom.png")
+}
+.mc-brownmushroomblock{
+	background-image:url("emoji/brownmushroomblock.png")
+}
+.mc-brownwool{
+	background-image:url("emoji/brownwool.png")
+}
+.mc-bucket{
+	background-image:url("emoji/bucket.png")
+}
+.mc-bucketlava{
+	background-image:url("emoji/bucketlava.png")
+}
+.mc-bucketmilk{
+	background-image:url("emoji/bucketmilk.png")
+}
+.mc-bucketwater{
+	background-image:url("emoji/bucketwater.png")
+}
+.mc-cactus{
+	background-image:url("emoji/cactus.png")
+}
+.mc-cactusgreendye{
+	background-image:url("emoji/cactusgreendye.png")
+}
+.mc-cake{
+	background-image:url("emoji/cake.png")
+}
+.mc-cakeblock{
+	background-image:url("emoji/cakeblock.png")
+}
+.mc-cauldron{
+	background-image:url("emoji/cauldron.png")
+}
+.mc-cauldronblock{
+	background-image:url("emoji/cauldronblock.png")
+}
+.mc-chainmailboots{
+	background-image:url("emoji/chainmailboots.png")
+}
+.mc-chainmailchestplate{
+	background-image:url("emoji/chainmailchestplate.png")
+}
+.mc-chainmailhelmet{
+	background-image:url("emoji/chainmailhelmet.png")
+}
+.mc-chainmailleggings{
+	background-image:url("emoji/chainmailleggings.png")
+}
+.mc-charcoal{
+	background-image:url("emoji/charcoal.png")
+}
+.mc-chest{
+	background-image:url("emoji/chest.png")
+}
+.mc-clay{
+	background-image:url("emoji/clay.png")
+}
+.mc-clayblock{
+	background-image:url("emoji/clayblock.png")
+}
+.mc-claybrick{
+	background-image:url("emoji/claybrick.png")
+}
+.mc-coal{
+	background-image:url("emoji/coal.png")
+}
+.mc-coalore{
+	background-image:url("emoji/coalore.png")
+}
+.mc-cobblestone{
+	background-image:url("emoji/cobblestone.png")
+}
+.mc-cobblestoneslab{
+	background-image:url("emoji/cobblestoneslab.png")
+}
+.mc-cobblestoneslabdouble{
+	background-image:url("emoji/cobblestoneslabdouble.png")
+}
+.mc-cobblestonestairs{
+	background-image:url("emoji/cobblestonestairs.png")
+}
+.mc-cocabean{
+	background-image:url("emoji/cocabean.png")
+}
+.mc-compass{
+	background-image:url("emoji/compass.png")
+}
+.mc-cookedchicken{
+	background-image:url("emoji/cookedchicken.png")
+}
+.mc-cookedfish{
+	background-image:url("emoji/cookedfish.png")
+}
+.mc-cookedporkchop{
+	background-image:url("emoji/cookedporkchop.png")
+}
+.mc-cookie{
+	background-image:url("emoji/cookie.png")
+}
+.mc-crackedstonebricks{
+	background-image:url("emoji/crackedstonebricks.png")
+}
+.mc-cyandye{
+	background-image:url("emoji/cyandye.png")
+}
+.mc-cyanwool{
+	background-image:url("emoji/cyanwool.png")
+}
+.mc-dandelion{
+	background-image:url("emoji/dandelion.png")
+}
+.mc-dandelionyellowdye{
+	background-image:url("emoji/dandelionyellowdye.png")
+}
+.mc-deadshrub{
+	background-image:url("emoji/deadshrub.png")
+}
+.mc-detectorrail{
+	background-image:url("emoji/detectorrail.png")
+}
+.mc-diamondaxe{
+	background-image:url("emoji/diamondaxe.png")
+}
+.mc-diamondboots{
+	background-image:url("emoji/diamondboots.png")
+}
+.mc-diamondchestplate{
+	background-image:url("emoji/diamondchestplate.png")
+}
+.mc-diamondgem{
+	background-image:url("emoji/diamondgem.png")
+}
+.mc-diamondhelmet{
+	background-image:url("emoji/diamondhelmet.png")
+}
+.mc-diamondhoe{
+	background-image:url("emoji/diamondhoe.png")
+}
+.mc-diamondleggings{
+	background-image:url("emoji/diamondleggings.png")
+}
+.mc-diamondore{
+	background-image:url("emoji/diamondore.png")
+}
+.mc-diamondpickaxe{
+	background-image:url("emoji/diamondpickaxe.png")
+}
+.mc-diamondshovel{
+	background-image:url("emoji/diamondshovel.png")
+}
+.mc-diamondsword{
+	background-image:url("emoji/diamondsword.png")
+}
+.mc-dirt{
+	background-image:url("emoji/dirt.png")
+}
+.mc-dispenser{
+	background-image:url("emoji/dispenser.png")
+}
+.mc-dragonegg{
+	background-image:url("emoji/dragonegg.png")
+}
+.mc-egg{
+	background-image:url("emoji/egg.png")
+}
+.mc-enchantmenttable{
+	background-image:url("emoji/enchantmenttable.png")
+}
+.mc-enderpearl{
+	background-image:url("emoji/enderpearl.png")
+}
+.mc-endportalframe{
+	background-image:url("emoji/endportalframe.png")
+}
+.mc-endstone{
+	background-image:url("emoji/endstone.png")
+}
+.mc-eyeofender{
+	background-image:url("emoji/eyeofender.png")
+}
+.mc-farmland{
+	background-image:url("emoji/farmland.png")
+}
+.mc-feather{
+	background-image:url("emoji/feather.png")
+}
+.mc-fence{
+	background-image:url("emoji/fence.png")
+}
+.mc-fencegate{
+	background-image:url("emoji/fencegate.png")
+}
+.mc-fermentedspidereye{
+	background-image:url("emoji/fermentedspidereye.png")
+}
+.mc-fire{
+	background-image:url("emoji/fire.png")
+}
+.mc-firecharge{
+	background-image:url("emoji/firecharge.png")
+}
+.mc-fireresistancepotion300{
+	background-image:url("emoji/fireresistancepotion300.png")
+}
+.mc-fireresistancepotion800{
+	background-image:url("emoji/fireresistancepotion800.png")
+}
+.mc-fireresistancesplash215{
+	background-image:url("emoji/fireresistancesplash215.png")
+}
+.mc-fireresistancesplash600{
+	background-image:url("emoji/fireresistancesplash600.png")
+}
+.mc-fishingrod{
+	background-image:url("emoji/fishingrod.png")
+}
+.mc-flint{
+	background-image:url("emoji/flint.png")
+}
+.mc-flintandsteel{
+	background-image:url("emoji/flintandsteel.png")
+}
+.mc-furnace{
+	background-image:url("emoji/furnace.png")
+}
+.mc-furnacesmelting{
+	background-image:url("emoji/furnacesmelting.png")
+}
+.mc-ghasttear{
+	background-image:url("emoji/ghasttear.png")
+}
+.mc-glass{
+	background-image:url("emoji/glass.png")
+}
+.mc-glassbottle{
+	background-image:url("emoji/glassbottle.png")
+}
+.mc-glasspane{
+	background-image:url("emoji/glasspane.png")
+}
+.mc-glisteringmelonslice{
+	background-image:url("emoji/glisteringmelonslice.png")
+}
+.mc-glowstone{
+	background-image:url("emoji/glowstone.png")
+}
+.mc-glowstonedust{
+	background-image:url("emoji/glowstonedust.png")
+}
+.mc-goldapple{
+	background-image:url("emoji/goldapple.png")
+}
+.mc-goldaxe{
+	background-image:url("emoji/goldaxe.png")
+}
+.mc-goldboots{
+	background-image:url("emoji/goldboots.png")
+}
+.mc-goldchestplate{
+	background-image:url("emoji/goldchestplate.png")
+}
+.mc-goldhelmet{
+	background-image:url("emoji/goldhelmet.png")
+}
+.mc-goldhoe{
+	background-image:url("emoji/goldhoe.png")
+}
+.mc-goldingot{
+	background-image:url("emoji/goldingot.png")
+}
+.mc-goldleggings{
+	background-image:url("emoji/goldleggings.png")
+}
+.mc-goldnugget{
+	background-image:url("emoji/goldnugget.png")
+}
+.mc-goldore{
+	background-image:url("emoji/goldore.png")
+}
+.mc-goldpickaxe{
+	background-image:url("emoji/goldpickaxe.png")
+}
+.mc-goldshovel{
+	background-image:url("emoji/goldshovel.png")
+}
+.mc-goldsword{
+	background-image:url("emoji/goldsword.png")
+}
+.mc-grass{
+	background-image:url("emoji/grass.png")
+}
+.mc-gravel{
+	background-image:url("emoji/gravel.png")
+}
+.mc-graydye{
+	background-image:url("emoji/graydye.png")
+}
+.mc-graywool{
+	background-image:url("emoji/graywool.png")
+}
+.mc-greenwool{
+	background-image:url("emoji/greenwool.png")
+}
+.mc-gunpowder{
+	background-image:url("emoji/gunpowder.png")
+}
+.mc-harmingpotion{
+	background-image:url("emoji/harmingpotion.png")
+}
+.mc-harmingpotionii{
+	background-image:url("emoji/harmingpotionii.png")
+}
+.mc-harmingsplash{
+	background-image:url("emoji/harmingsplash.png")
+}
+.mc-harmingsplashii{
+	background-image:url("emoji/harmingsplashii.png")
+}
+.mc-healingpotion{
+	background-image:url("emoji/healingpotion.png")
+}
+.mc-healingpotionii{
+	background-image:url("emoji/healingpotionii.png")
+}
+.mc-healingsplash{
+	background-image:url("emoji/healingsplash.png")
+}
+.mc-healingsplashii{
+	background-image:url("emoji/healingsplashii.png")
+}
+.mc-ice{
+	background-image:url("emoji/ice.png")
+}
+.mc-inksack{
+	background-image:url("emoji/inksack.png")
+}
+.mc-ironaxe{
+	background-image:url("emoji/ironaxe.png")
+}
+.mc-ironbars{
+	background-image:url("emoji/ironbars.png")
+}
+.mc-ironboots{
+	background-image:url("emoji/ironboots.png")
+}
+.mc-ironchestplate{
+	background-image:url("emoji/ironchestplate.png")
+}
+.mc-irondoor{
+	background-image:url("emoji/irondoor.png")
+}
+.mc-irondoorblock{
+	background-image:url("emoji/irondoorblock.png")
+}
+.mc-ironhelmet{
+	background-image:url("emoji/ironhelmet.png")
+}
+.mc-ironhoe{
+	background-image:url("emoji/ironhoe.png")
+}
+.mc-ironingot{
+	background-image:url("emoji/ironingot.png")
+}
+.mc-ironleggings{
+	background-image:url("emoji/ironleggings.png")
+}
+.mc-ironore{
+	background-image:url("emoji/ironore.png")
+}
+.mc-ironpickaxe{
+	background-image:url("emoji/ironpickaxe.png")
+}
+.mc-ironshovel{
+	background-image:url("emoji/ironshovel.png")
+}
+.mc-ironsword{
+	background-image:url("emoji/ironsword.png")
+}
+.mc-jack-o-lantern{
+	background-image:url("emoji/jack-o-lantern.png")
+}
+.mc-jukebox{
+	background-image:url("emoji/jukebox.png")
+}
+.mc-ladder{
+	background-image:url("emoji/ladder.png")
+}
+.mc-lapislazuli{
+	background-image:url("emoji/lapislazuli.png")
+}
+.mc-lapislazuliblock{
+	background-image:url("emoji/lapislazuliblock.png")
+}
+.mc-lapislazuliore{
+	background-image:url("emoji/lapislazuliore.png")
+}
+.mc-lava{
+	background-image:url("emoji/lava.png")
+}
+.mc-lavanospread{
+	background-image:url("emoji/lavanospread.png")
+}
+.mc-leather{
+	background-image:url("emoji/leather.png")
+}
+.mc-leatherboots{
+	background-image:url("emoji/leatherboots.png")
+}
+.mc-leatherchestplate{
+	background-image:url("emoji/leatherchestplate.png")
+}
+.mc-leatherhelmet{
+	background-image:url("emoji/leatherhelmet.png")
+}
+.mc-leatherleggings{
+	background-image:url("emoji/leatherleggings.png")
+}
+.mc-leaves{
+	background-image:url("emoji/leaves.png")
+}
+.mc-leavesbirch{
+	background-image:url("emoji/leavesbirch.png")
+}
+.mc-leavesjungle{
+	background-image:url("emoji/leavesjungle.png")
+}
+.mc-leavespine{
+	background-image:url("emoji/leavespine.png")
+}
+.mc-lever{
+	background-image:url("emoji/lever.png")
+}
+.mc-lightbluedye{
+	background-image:url("emoji/lightbluedye.png")
+}
+.mc-lightbluewool{
+	background-image:url("emoji/lightbluewool.png")
+}
+.mc-lightgraydye{
+	background-image:url("emoji/lightgraydye.png")
+}
+.mc-lightgraywool{
+	background-image:url("emoji/lightgraywool.png")
+}
+.mc-lilypad{
+	background-image:url("emoji/lilypad.png")
+}
+.mc-limedye{
+	background-image:url("emoji/limedye.png")
+}
+.mc-limewool{
+	background-image:url("emoji/limewool.png")
+}
+.mc-lockedchest{
+	background-image:url("emoji/lockedchest.png")
+}
+.mc-magentadye{
+	background-image:url("emoji/magentadye.png")
+}
+.mc-magentawool{
+	background-image:url("emoji/magentawool.png")
+}
+.mc-magmacream{
+	background-image:url("emoji/magmacream.png")
+}
+.mc-map{
+	background-image:url("emoji/map.png")
+}
+.mc-melonblock{
+	background-image:url("emoji/melonblock.png")
+}
+.mc-melonseeds{
+	background-image:url("emoji/melonseeds.png")
+}
+.mc-melonslice{
+	background-image:url("emoji/melonslice.png")
+}
+.mc-melonvine{
+	background-image:url("emoji/melonvine.png")
+}
+.mc-minecart{
+	background-image:url("emoji/minecart.png")
+}
+.mc-mobspawner{
+	background-image:url("emoji/mobspawner.png")
+}
+.mc-mossstone{
+	background-image:url("emoji/mossstone.png")
+}
+.mc-mossystonebricks{
+	background-image:url("emoji/mossystonebricks.png")
+}
+.mc-mundanepotion{
+	background-image:url("emoji/mundanepotion.png")
+}
+.mc-mushroomstew{
+	background-image:url("emoji/mushroomstew.png")
+}
+.mc-musicdisk11{
+	background-image:url("emoji/musicdisk11.png")
+}
+.mc-musicdisk13{
+	background-image:url("emoji/musicdisk13.png")
+}
+.mc-musicdiskblocks{
+	background-image:url("emoji/musicdiskblocks.png")
+}
+.mc-musicdiskcat{
+	background-image:url("emoji/musicdiskcat.png")
+}
+.mc-musicdiskchirp{
+	background-image:url("emoji/musicdiskchirp.png")
+}
+.mc-musicdiskfar{
+	background-image:url("emoji/musicdiskfar.png")
+}
+.mc-musicdiskmall{
+	background-image:url("emoji/musicdiskmall.png")
+}
+.mc-musicdiskmellohi{
+	background-image:url("emoji/musicdiskmellohi.png")
+}
+.mc-musicdiskstal{
+	background-image:url("emoji/musicdiskstal.png")
+}
+.mc-musicdiskstrad{
+	background-image:url("emoji/musicdiskstrad.png")
+}
+.mc-musicdiskward{
+	background-image:url("emoji/musicdiskward.png")
+}
+.mc-mycelium{
+	background-image:url("emoji/mycelium.png")
+}
+.mc-netherbrick{
+	background-image:url("emoji/netherbrick.png")
+}
+.mc-netherbrickfence{
+	background-image:url("emoji/netherbrickfence.png")
+}
+.mc-netherbrickstairs{
+	background-image:url("emoji/netherbrickstairs.png")
+}
+.mc-netherrack{
+	background-image:url("emoji/netherrack.png")
+}
+.mc-netherwart{
+	background-image:url("emoji/netherwart.png")
+}
+.mc-netherwartseeds{
+	background-image:url("emoji/netherwartseeds.png")
+}
+.mc-noteblock{
+	background-image:url("emoji/noteblock.png")
+}
+.mc-obsidian{
+	background-image:url("emoji/obsidian.png")
+}
+.mc-orangedye{
+	background-image:url("emoji/orangedye.png")
+}
+.mc-orangewool{
+	background-image:url("emoji/orangewool.png")
+}
+.mc-painting{
+	background-image:url("emoji/painting.png")
+}
+.mc-paper{
+	background-image:url("emoji/paper.png")
+}
+.mc-pinkdye{
+	background-image:url("emoji/pinkdye.png")
+}
+.mc-pinkwool{
+	background-image:url("emoji/pinkwool.png")
+}
+.mc-piston{
+	background-image:url("emoji/piston.png")
+}
+.mc-pistonhead{
+	background-image:url("emoji/pistonhead.png")
+}
+.mc-poisonpotion045{
+	background-image:url("emoji/poisonpotion045.png")
+}
+.mc-poisonpotion200{
+	background-image:url("emoji/poisonpotion200.png")
+}
+.mc-poisonpotionii022{
+	background-image:url("emoji/poisonpotionii022.png")
+}
+.mc-poisonsplash033{
+	background-image:url("emoji/poisonsplash033.png")
+}
+.mc-poisonsplash130{
+	background-image:url("emoji/poisonsplash130.png")
+}
+.mc-poisonsplashii016{
+	background-image:url("emoji/poisonsplashii016.png")
+}
+.mc-portal{
+	background-image:url("emoji/portal.png")
+}
+.mc-poweredminecart{
+	background-image:url("emoji/poweredminecart.png")
+}
+.mc-poweredrail{
+	background-image:url("emoji/poweredrail.png")
+}
+.mc-pumpkin{
+	background-image:url("emoji/pumpkin.png")
+}
+.mc-pumpkinseeds{
+	background-image:url("emoji/pumpkinseeds.png")
+}
+.mc-pumpkinvine{
+	background-image:url("emoji/pumpkinvine.png")
+}
+.mc-purpledye{
+	background-image:url("emoji/purpledye.png")
+}
+.mc-purplewool{
+	background-image:url("emoji/purplewool.png")
+}
+.mc-rails{
+	background-image:url("emoji/rails.png")
+}
+.mc-rawbeef{
+	background-image:url("emoji/rawbeef.png")
+}
+.mc-rawchicken{
+	background-image:url("emoji/rawchicken.png")
+}
+.mc-rawfish{
+	background-image:url("emoji/rawfish.png")
+}
+.mc-rawporkchop{
+	background-image:url("emoji/rawporkchop.png")
+}
+.mc-redmushroom{
+	background-image:url("emoji/redmushroom.png")
+}
+.mc-redmushroomblock{
+	background-image:url("emoji/redmushroomblock.png")
+}
+.mc-redstonedust{
+	background-image:url("emoji/redstonedust.png")
+}
+.mc-redstoneore{
+	background-image:url("emoji/redstoneore.png")
+}
+.mc-redstoneoreglowing{
+	background-image:url("emoji/redstoneoreglowing.png")
+}
+.mc-redstonerepeater{
+	background-image:url("emoji/redstonerepeater.png")
+}
+.mc-redstonerepeaterblockoff{
+	background-image:url("emoji/redstonerepeaterblockoff.png")
+}
+.mc-redstonerepeaterblockon{
+	background-image:url("emoji/redstonerepeaterblockon.png")
+}
+.mc-redstonetorch{
+	background-image:url("emoji/redstonetorch.png")
+}
+.mc-redstonetorchoff{
+	background-image:url("emoji/redstonetorchoff.png")
+}
+.mc-redstonewire{
+	background-image:url("emoji/redstonewire.png")
+}
+.mc-redwool{
+	background-image:url("emoji/redwool.png")
+}
+.mc-regenerationpotion045{
+	background-image:url("emoji/regenerationpotion045.png")
+}
+.mc-regenerationpotion200{
+	background-image:url("emoji/regenerationpotion200.png")
+}
+.mc-regenerationpotionii022{
+	background-image:url("emoji/regenerationpotionii022.png")
+}
+.mc-regenerationsplash033{
+	background-image:url("emoji/regenerationsplash033.png")
+}
+.mc-regenerationsplash130{
+	background-image:url("emoji/regenerationsplash130.png")
+}
+.mc-regenerationsplashii016{
+	background-image:url("emoji/regenerationsplashii016.png")
+}
+.mc-rose{
+	background-image:url("emoji/rose.png")
+}
+.mc-rosereddye{
+	background-image:url("emoji/rosereddye.png")
+}
+.mc-rottenflesh{
+	background-image:url("emoji/rottenflesh.png")
+}
+.mc-saddle{
+	background-image:url("emoji/saddle.png")
+}
+.mc-sand{
+	background-image:url("emoji/sand.png")
+}
+.mc-sandstone{
+	background-image:url("emoji/sandstone.png")
+}
+.mc-sandstoneslab{
+	background-image:url("emoji/sandstoneslab.png")
+}
+.mc-sandstoneslabdouble{
+	background-image:url("emoji/sandstoneslabdouble.png")
+}
+.mc-sapling{
+	background-image:url("emoji/sapling.png")
+}
+.mc-saplingbirch{
+	background-image:url("emoji/saplingbirch.png")
+}
+.mc-saplingjungle{
+	background-image:url("emoji/saplingjungle.png")
+}
+.mc-saplingpine{
+	background-image:url("emoji/saplingpine.png")
+}
+.mc-shears{
+	background-image:url("emoji/shears.png")
+}
+.mc-sign{
+	background-image:url("emoji/sign.png")
+}
+.mc-signblock{
+	background-image:url("emoji/signblock.png")
+}
+.mc-signwallblock{
+	background-image:url("emoji/signwallblock.png")
+}
+.mc-silverfishstone{
+	background-image:url("emoji/silverfishstone.png")
+}
+.mc-slimeball{
+	background-image:url("emoji/slimeball.png")
+}
+.mc-slownesspotion130{
+	background-image:url("emoji/slownesspotion130.png")
+}
+.mc-slownesspotion400{
+	background-image:url("emoji/slownesspotion400.png")
+}
+.mc-slownesssplash107{
+	background-image:url("emoji/slownesssplash107.png")
+}
+.mc-slownesssplash300{
+	background-image:url("emoji/slownesssplash300.png")
+}
+.mc-snow{
+	background-image:url("emoji/snow.png")
+}
+.mc-snowball{
+	background-image:url("emoji/snowball.png")
+}
+.mc-snowblock{
+	background-image:url("emoji/snowblock.png")
+}
+.mc-soulsand{
+	background-image:url("emoji/soulsand.png")
+}
+.mc-spidereye{
+	background-image:url("emoji/spidereye.png")
+}
+.mc-sponge{
+	background-image:url("emoji/sponge.png")
+}
+.mc-steak{
+	background-image:url("emoji/steak.png")
+}
+.mc-stick{
+	background-image:url("emoji/stick.png")
+}
+.mc-stickypiston{
+	background-image:url("emoji/stickypiston.png")
+}
+.mc-stone{
+	background-image:url("emoji/stone.png")
+}
+.mc-stoneaxe{
+	background-image:url("emoji/stoneaxe.png")
+}
+.mc-stonebricks{
+	background-image:url("emoji/stonebricks.png")
+}
+.mc-stonebrickslab{
+	background-image:url("emoji/stonebrickslab.png")
+}
+.mc-stonebrickslabdouble{
+	background-image:url("emoji/stonebrickslabdouble.png")
+}
+.mc-stonebrickstairs{
+	background-image:url("emoji/stonebrickstairs.png")
+}
+.mc-stonebutton{
+	background-image:url("emoji/stonebutton.png")
+}
+.mc-stonehoe{
+	background-image:url("emoji/stonehoe.png")
+}
+.mc-stonepickaxe{
+	background-image:url("emoji/stonepickaxe.png")
+}
+.mc-stonepressureplate{
+	background-image:url("emoji/stonepressureplate.png")
+}
+.mc-stoneshovel{
+	background-image:url("emoji/stoneshovel.png")
+}
+.mc-stoneslab{
+	background-image:url("emoji/stoneslab.png")
+}
+.mc-stoneslabdouble{
+	background-image:url("emoji/stoneslabdouble.png")
+}
+.mc-stonesword{
+	background-image:url("emoji/stonesword.png")
+}
+.mc-storageminecart{
+	background-image:url("emoji/storageminecart.png")
+}
+.mc-strengthpotion300{
+	background-image:url("emoji/strengthpotion300.png")
+}
+.mc-strengthpotion800{
+	background-image:url("emoji/strengthpotion800.png")
+}
+.mc-strengthpotionii130{
+	background-image:url("emoji/strengthpotionii130.png")
+}
+.mc-strengthsplash215{
+	background-image:url("emoji/strengthsplash215.png")
+}
+.mc-strengthsplash600{
+	background-image:url("emoji/strengthsplash600.png")
+}
+.mc-strengthsplashii107{
+	background-image:url("emoji/strengthsplashii107.png")
+}
+.mc-string{
+	background-image:url("emoji/string.png")
+}
+.mc-sugar{
+	background-image:url("emoji/sugar.png")
+}
+.mc-sugarcane{
+	background-image:url("emoji/sugarcane.png")
+}
+.mc-sugarcaneblock{
+	background-image:url("emoji/sugarcaneblock.png")
+}
+.mc-swiftnesspotion300{
+	background-image:url("emoji/swiftnesspotion300.png")
+}
+.mc-swiftnesspotion800{
+	background-image:url("emoji/swiftnesspotion800.png")
+}
+.mc-swiftnesspotionii130{
+	background-image:url("emoji/swiftnesspotionii130.png")
+}
+.mc-swiftnesssplash215{
+	background-image:url("emoji/swiftnesssplash215.png")
+}
+.mc-swiftnesssplash600{
+	background-image:url("emoji/swiftnesssplash600.png")
+}
+.mc-swiftnesssplashii107{
+	background-image:url("emoji/swiftnesssplashii107.png")
+}
+.mc-tallgrass{
+	background-image:url("emoji/tallgrass.png")
+}
+.mc-tallgrassdeadshrub{
+	background-image:url("emoji/tallgrassdeadshrub.png")
+}
+.mc-tallgrassfern{
+	background-image:url("emoji/tallgrassfern.png")
+}
+.mc-thickpotion{
+	background-image:url("emoji/thickpotion.png")
+}
+.mc-tnt{
+	background-image:url("emoji/tnt.png")
+}
+.mc-torch{
+	background-image:url("emoji/torch.png")
+}
+.mc-trapdoor{
+	background-image:url("emoji/trapdoor.png")
+}
+.mc-unknown{
+	background-image:url("emoji/unknown.png")
+}
+.mc-vines{
+	background-image:url("emoji/vines.png")
+}
+.mc-watch{
+	background-image:url("emoji/watch.png")
+}
+.mc-water{
+	background-image:url("emoji/water.png")
+}
+.mc-waterbottle{
+	background-image:url("emoji/waterbottle.png")
+}
+.mc-waternospread{
+	background-image:url("emoji/waternospread.png")
+}
+.mc-weaknesspotion130{
+	background-image:url("emoji/weaknesspotion130.png")
+}
+.mc-weaknesspotion400{
+	background-image:url("emoji/weaknesspotion400.png")
+}
+.mc-weaknesssplash107{
+	background-image:url("emoji/weaknesssplash107.png")
+}
+.mc-weaknesssplash300{
+	background-image:url("emoji/weaknesssplash300.png")
+}
+.mc-web{
+	background-image:url("emoji/web.png")
+}
+.mc-wheat{
+	background-image:url("emoji/wheat.png")
+}
+.mc-wheatcrop{
+	background-image:url("emoji/wheatcrop.png")
+}
+.mc-wheatseeds{
+	background-image:url("emoji/wheatseeds.png")
+}
+.mc-wood{
+	background-image:url("emoji/wood.png")
+}
+.mc-woodbirch{
+	background-image:url("emoji/woodbirch.png")
+}
+.mc-wooddoorblock{
+	background-image:url("emoji/wooddoorblock.png")
+}
+.mc-woodenaxe{
+	background-image:url("emoji/woodenaxe.png")
+}
+.mc-woodendoor{
+	background-image:url("emoji/woodendoor.png")
+}
+.mc-woodenhoe{
+	background-image:url("emoji/woodenhoe.png")
+}
+.mc-woodenpickaxe{
+	background-image:url("emoji/woodenpickaxe.png")
+}
+.mc-woodenplank{
+	background-image:url("emoji/woodenplank.png")
+}
+.mc-woodenpressureplate{
+	background-image:url("emoji/woodenpressureplate.png")
+}
+.mc-woodenshovel{
+	background-image:url("emoji/woodenshovel.png")
+}
+.mc-woodenslab{
+	background-image:url("emoji/woodenslab.png")
+}
+.mc-woodenslabdouble{
+	background-image:url("emoji/woodenslabdouble.png")
+}
+.mc-woodenstairs{
+	background-image:url("emoji/woodenstairs.png")
+}
+.mc-woodensword{
+	background-image:url("emoji/woodensword.png")
+}
+.mc-woodjungle{
+	background-image:url("emoji/woodjungle.png")
+}
+.mc-woodpine{
+	background-image:url("emoji/woodpine.png")
+}
+.mc-wool{
+	background-image:url("emoji/wool.png")
+}
+.mc-workbench{
+	background-image:url("emoji/workbench.png")
+}
+.mc-yellowwool{
+	background-image:url("emoji/yellowwool.png")
+}
