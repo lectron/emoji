@@ -42,7 +42,7 @@ $(function() {
 
   clip.on('copy', function(event) {
     var name = clip.getData('text/plain');
-    var el = '<i class="em em-' + name + '"></i>';
+    var el = '<i class="mc mc-' + name + '"></i>';
     event.clipboardData.setData('text/plain', el);
   });
 
