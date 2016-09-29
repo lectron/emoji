@@ -3,7 +3,7 @@ html {
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  background: url(graphics/stucco.png); }
+  background-color: #fff; }
 
 h1 {
   margin: 0;
